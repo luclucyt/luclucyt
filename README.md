@@ -13,7 +13,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luclucyt&show_icons=true&locale=en&layout=compact" alt="luclucyt" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luclucyt&show_icons=true&locale=en" alt="luclucyt" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luclucyt" alt="luclucyt" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luclucyt&show_icons=true&locale=en" alt="luclucyt" /></p
 
